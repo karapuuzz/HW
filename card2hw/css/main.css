@@ -1,0 +1,46 @@
+.container{
+}
+.high{
+    height: 150px;
+    background: darkgrey;
+    display: flex;
+    align-items: center;
+}
+.central_but_not_vladimirski{
+    display: flex;
+    justify-content: center;
+    height: 500px;
+    background: #10082d;
+    position: relative;
+}
+.low{
+    height: 250px;
+    background: darkgrey;
+}
+.box{
+    height: 200px;
+    width: 200px;
+    background: mediumpurple;
+    border-radius: 15px;
+}
+.target{
+    width: 800px;
+    display: flex;
+    justify-content: space-evenly;
+    position: absolute;
+    bottom: -100px;
+}
+.high_button {
+    height: 70px;
+    width: 150px;
+    background: #10082d;
+    border-radius: 10px;;
+    margin-left: 140px;
+}
+.icons{
+    margin-left: 800px;
+    font-size: 30px;
+}
+.fa-regular fa-magnifying-glass{
+  margin-right: 10px;
+}

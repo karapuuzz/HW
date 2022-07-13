@@ -1,0 +1,49 @@
+.high{
+    height: 80px;
+}
+.icons{
+    width: 100%;
+    display: flex;
+    justify-content: space-evenly;
+    position: absolute;
+    top: -50px;
+}
+.cards {
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    position: relative;
+    width: 100%;
+    font-family: "American Typewriter";
+}
+.border {
+    border-style: groove;
+}
+.cardsize{
+    height: 400px;
+    width: 300px;
+}
+.card2{
+    margin-right:40px ;
+    margin-left: 40px;
+}
+.tmargin{
+    margin-top: 50px;
+    margin-right: 20px;
+    margin-left: 20px;
+}
+p{
+    color: cadetblue;
+}
+.buttom{
+    margin: 50px;
+    border-color: black;
+    border-width: 1px;
+    padding-top: 15px;
+    padding-bottom: 15px;
+}
+.icon{
+    height: 100px;
+    width: 100px;
+    border-radius: 50%;
+}
